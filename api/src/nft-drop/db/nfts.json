@@ -1,0 +1,175 @@
+{
+   "dataType": "Map",
+   "value": [
+      [
+         "#00000",
+         {
+            "id": "#00000",
+            "timestamp": "time0.43921940796956593",
+            "traits": [
+               {
+                  "trait_type": "animal",
+                  "rarity": "common",
+                  "value": "fox"
+               },
+               {
+                  "trait_type": "expression",
+                  "rarity": "epic",
+                  "value": "good"
+               },
+               {
+                  "trait_type": "forehead",
+                  "rarity": "rare",
+                  "value": "bloodmoon"
+               },
+               {
+                  "trait_type": "hands",
+                  "rarity": "epic",
+                  "value": "saint"
+               },
+               {
+                  "trait_type": "trinket",
+                  "rarity": "epic",
+                  "value": "allseeingeye"
+               }
+            ]
+         }
+      ],
+      [
+         "#00001",
+         {
+            "id": "#00001",
+            "timestamp": "time0.591862436207828",
+            "traits": [
+               {
+                  "trait_type": "animal",
+                  "rarity": "common",
+                  "value": "bunny"
+               },
+               {
+                  "trait_type": "expression",
+                  "rarity": "rare",
+                  "value": "upset"
+               },
+               {
+                  "trait_type": "forehead",
+                  "rarity": "legendary",
+                  "value": "gem"
+               },
+               {
+                  "trait_type": "hands",
+                  "rarity": "epic",
+                  "value": "blood"
+               },
+               {
+                  "trait_type": "trinket",
+                  "rarity": "common",
+                  "value": "goldencarrot"
+               }
+            ]
+         }
+      ],
+      [
+         "#00002",
+         {
+            "id": "#00002",
+            "timestamp": "time0.01500447512461589",
+            "traits": [
+               {
+                  "trait_type": "animal",
+                  "rarity": "common",
+                  "value": "fox"
+               },
+               {
+                  "trait_type": "expression",
+                  "rarity": "common",
+                  "value": "innocent"
+               },
+               {
+                  "trait_type": "forehead",
+                  "rarity": "rare",
+                  "value": "bloodmoon"
+               },
+               {
+                  "trait_type": "hands",
+                  "rarity": "common",
+                  "value": "claw"
+               },
+               {
+                  "trait_type": "trinket",
+                  "rarity": "rare",
+                  "value": "fullmoon"
+               }
+            ]
+         }
+      ],
+      [
+         "#00003",
+         {
+            "id": "#00003",
+            "timestamp": "time0.17993853875888055",
+            "traits": [
+               {
+                  "trait_type": "animal",
+                  "rarity": "common",
+                  "value": "bunny"
+               },
+               {
+                  "trait_type": "expression",
+                  "rarity": "common",
+                  "value": "innocent"
+               },
+               {
+                  "trait_type": "forehead",
+                  "rarity": "common",
+                  "value": "common2"
+               },
+               {
+                  "trait_type": "hands",
+                  "rarity": "common",
+                  "value": "claw"
+               },
+               {
+                  "trait_type": "trinket",
+                  "rarity": "common",
+                  "value": "candle"
+               }
+            ]
+         }
+      ],
+      [
+         "#00004",
+         {
+            "id": "#00004",
+            "timestamp": "time0.6551650491692602",
+            "traits": [
+               {
+                  "trait_type": "animal",
+                  "rarity": "common",
+                  "value": "bunny"
+               },
+               {
+                  "trait_type": "expression",
+                  "rarity": "legendary",
+                  "value": "possessed"
+               },
+               {
+                  "trait_type": "forehead",
+                  "rarity": "rare",
+                  "value": "bloodmoon"
+               },
+               {
+                  "trait_type": "hands",
+                  "rarity": "common",
+                  "value": "normal"
+               },
+               {
+                  "trait_type": "trinket",
+                  "rarity": "rare",
+                  "value": "waningmoon"
+               }
+            ]
+         }
+      ]
+   ]
+}

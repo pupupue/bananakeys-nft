@@ -1,0 +1,479 @@
+{
+   "dataType": "Map",
+   "value": [
+      [
+         "animal",
+         {
+            "dataType": "Map",
+            "value": [
+               [
+                  "cat",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00001"
+                     ]
+                  }
+               ],
+               [
+                  "bunny",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00001",
+                        "#00003",
+                        "#00004"
+                     ]
+                  }
+               ],
+               [
+                  "fox",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        "#00002"
+                     ]
+                  }
+               ],
+               [
+                  "axolotl",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00000"
+                     ]
+                  }
+               ]
+            ]
+         }
+      ],
+      [
+         "expression",
+         {
+            "dataType": "Map",
+            "value": [
+               [
+                  "innocent",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00002",
+                        "#00003"
+                     ]
+                  }
+               ],
+               [
+                  "upset",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        "#00001",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "malevolent",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00001",
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "good",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "evil",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "possessed",
+                  {
+                     "rarity": "legendary",
+                     "completed": true,
+                     "entries": [
+                        "#00004"
+                     ]
+                  }
+               ]
+            ]
+         }
+      ],
+      [
+         "forehead",
+         {
+            "dataType": "Map",
+            "value": [
+               [
+                  "nothing",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "common1",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00001"
+                     ]
+                  }
+               ],
+               [
+                  "common2",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00003"
+                     ]
+                  }
+               ],
+               [
+                  "bloodmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": true,
+                     "entries": [
+                        "#00000",
+                        "#00002",
+                        "#00004"
+                     ]
+                  }
+               ],
+               [
+                  "arabianmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "thirdeye",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "gem",
+                  {
+                     "rarity": "legendary",
+                     "completed": true,
+                     "entries": [
+                        "#00001"
+                     ]
+                  }
+               ]
+            ]
+         }
+      ],
+      [
+         "hands",
+         {
+            "dataType": "Map",
+            "value": [
+               [
+                  "normal",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00004"
+                     ]
+                  }
+               ],
+               [
+                  "claw",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        "#00002",
+                        "#00003"
+                     ]
+                  }
+               ],
+               [
+                  "kawaii",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "saint",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "blood",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        "#00001",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "possessed",
+                  {
+                     "rarity": "legendary",
+                     "completed": true,
+                     "entries": [
+                        "#00001"
+                     ]
+                  }
+               ]
+            ]
+         }
+      ],
+      [
+         "trinket",
+         {
+            "dataType": "Map",
+            "value": [
+               [
+                  "goldencarrot",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00001"
+                     ]
+                  }
+               ],
+               [
+                  "knife",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "eye",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "sulfur",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "reversecross",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "goldenhorseshoe",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "meatcleaver",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "6ix",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "candle",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": [
+                        "#00003"
+                     ]
+                  }
+               ],
+               [
+                  "eyeofhorus",
+                  {
+                     "rarity": "common",
+                     "completed": false,
+                     "entries": []
+                  }
+               ],
+               [
+                  "fullmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00002",
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "bloodmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "waxingmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        "#00001",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "waningmoon",
+                  {
+                     "rarity": "rare",
+                     "completed": false,
+                     "entries": [
+                        "#00004",
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "allseeingeye",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        "#00000",
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "tarrotcard",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "gapple",
+                  {
+                     "rarity": "epic",
+                     "completed": false,
+                     "entries": [
+                        null,
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "enchantedgapple",
+                  {
+                     "rarity": "legendary",
+                     "completed": false,
+                     "entries": [
+                        null
+                     ]
+                  }
+               ],
+               [
+                  "possesseddoll",
+                  {
+                     "rarity": "legendary",
+                     "completed": false,
+                     "entries": [
+                        null
+                     ]
+                  }
+               ]
+            ]
+         }
+      ]
+   ]
+}
